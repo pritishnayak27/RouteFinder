@@ -1,0 +1,53 @@
+
+source,destination,distance,speed_limit,road_type
+A,B,5,60,Highway
+A,C,3,40,Street
+A,D,4,50,Main Road
+B,E,6,80,Highway
+B,F,3,50,Street
+C,D,2,30,Residential
+C,G,5,40,Street
+D,G,4,60,Main Road
+D,H,6,80,Highway
+E,F,2,40,Residential
+E,I,5,60,Main Road
+F,G,3,50,Street
+F,J,7,80,Highway
+G,H,2,30,Residential
+G,J,4,60,Main Road
+H,K,5,80,Highway
+I,J,3,50,Street
+I,L,6,60,Main Road
+J,K,2,40,Residential
+K,L,4,80,Highway
+L,M,5,60,Main Road
+M,N,3,40,Street
+N,O,4,50,Main Road
+O,P,6,80,Highway
+P,Q,2,30,Residential
+Q,R,5,60,Main Road
+R,S,4,50,Street
+S,T,6,80,Highway
+M,Q,7,80,Highway
+N,R,5,60,Main Road
+O,S,3,40,Street
+P,T,4,60,Main Road
+H,M,6,80,Highway
+G,N,5,50,Street
+F,O,7,80,Highway
+E,P,8,60,Main Road
+D,Q,6,50,Street
+C,R,7,60,Main Road
+B,S,9,80,Highway
+A,T,12,80,Highway
+J,N,4,50,Street
+K,O,5,60,Main Road
+L,P,6,80,Highway
+I,M,4,50,Street
+H,L,3,40,Residential
+E,J,4,50,Main Road
+C,F,3,40,Street
+D,I,5,60,Main Road
+G,K,4,50,Street
+N,T,8,80,Highway
+

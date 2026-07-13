@@ -1,0 +1,52 @@
+time,weather,road_type,distance,actual_speed
+7,Sunny,Highway,5,62
+7,Rain,Highway,5,38
+7,Cloudy,Highway,6,54
+8,Sunny,Highway,5,58
+8,Rain,Highway,5,34
+8,Cloudy,Main Road,4,42
+9,Sunny,Street,2,30
+9,Cloudy,Street,3,28
+9,Rain,Street,3,21
+10,Sunny,Main Road,4,46
+10,Rain,Main Road,5,35
+10,Cloudy,Main Road,4,40
+11,Sunny,Residential,2,32
+11,Rain,Residential,2,20
+11,Cloudy,Residential,3,25
+12,Sunny,Highway,6,76
+12,Rain,Highway,6,50
+12,Cloudy,Highway,6,63
+13,Sunny,Street,4,36
+13,Cloudy,Street,5,35
+13,Rain,Street,4,24
+14,Sunny,Residential,3,29
+14,Rain,Residential,2,18
+14,Cloudy,Residential,3,24
+15,Sunny,Main Road,6,50
+15,Rain,Main Road,6,38
+15,Cloudy,Main Road,5,43
+16,Sunny,Highway,5,60
+16,Rain,Highway,5,40
+16,Cloudy,Highway,5,55
+17,Sunny,Street,4,34
+17,Cloudy,Street,4,31
+17,Rain,Street,3,23
+18,Sunny,Residential,2,27
+18,Rain,Residential,2,17
+18,Cloudy,Highway,5,50
+19,Sunny,Main Road,7,52
+19,Rain,Main Road,6,39
+19,Cloudy,Main Road,6,45
+20,Sunny,Highway,6,72
+20,Cloudy,Highway,6,70
+20,Rain,Highway,6,48
+21,Sunny,Street,3,33
+21,Rain,Street,3,22
+21,Cloudy,Street,4,29
+22,Sunny,Residential,2,30
+22,Rain,Residential,2,19
+22,Cloudy,Residential,3,26
+23,Sunny,Highway,4,60
+23,Rain,Highway,4,41
+23,Cloudy,Highway,5,56
