@@ -1,0 +1,8 @@
+python
+streamlit
+pandas
+numpy
+matplotlib
+networkx
+scikit-learn
+joblib
